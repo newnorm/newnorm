@@ -8,6 +8,12 @@
 
 ---
 
+### 🦊 On my way! 
+
+I try to design well from the draft. 
+Research a lot, think deep, read long. 
+
+
 <p align='center'>
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
 </p>
