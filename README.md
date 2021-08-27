@@ -10,7 +10,7 @@
 
 ### 🦊 On my way! 
 
-I try to design well from the draft. 
+I try to design well from the draft. <br/>
 Research a lot, think deep, read long. 
 
 
