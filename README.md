@@ -1,6 +1,6 @@
 ### Recently Working on
 
-- [디자인 패턴 정리](https://github.com/yeonwooz/computer-science-B-2207)
+- [디자인 패턴, 네트워크 정리](https://github.com/yeonwooz/computer-science-B-2207)
 - [LeetCodeChallenge](https://github.com/yeonwooz/LeetCodeChallenge)
 - [백준 1일 1문](https://github.com/yeonwooz/BOJ)
 - [html tags (semantic elements)](https://github.com/yeonwooz/html-css)
