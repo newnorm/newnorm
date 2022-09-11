@@ -1,7 +1,7 @@
 ### Recently Working on
 
 - [메모 앱(JS, pymongo, flask)](https://github.com/yeonwooz/memo)
-- [디자인 패턴, 네트워크, 운영체제 정리](https://github.com/yeonwooz/computer-science-B-2207)
+- [디자인 패턴, 네트워크, 운영체제, 데이터베이스 정리](https://github.com/yeonwooz/computer-science-B-2207)
 - [LeetCodeChallenge](https://github.com/yeonwooz/LeetCodeChallenge)
 - [백준 1일 1문](https://github.com/yeonwooz/BOJ)
 - [html tags (semantic elements)](https://github.com/yeonwooz/html-css)
