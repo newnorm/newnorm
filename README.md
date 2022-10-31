@@ -1,11 +1,11 @@
 ### Recently Working on
 
+- [백준 1일 1문](https://github.com/yeonwooz/BOJ)
+- [디자인 패턴, 네트워크, 운영체제, 데이터베이스, 자료구조 정리](https://github.com/yeonwooz/CS-study)
 - [메모 앱(JS, pymongo, flask)](https://github.com/yeonwooz/memo)
 - [디스커션 앱](https://github.com/yeonwooz/discussion-app)
-- [디자인 패턴, 네트워크, 운영체제, 데이터베이스, 자료구조 정리](https://github.com/yeonwooz/CS-study)
-- [LeetCodeChallenge](https://github.com/yeonwooz/LeetCodeChallenge)
-- [백준 1일 1문](https://github.com/yeonwooz/BOJ)
-- [html tags (semantic elements)](https://github.com/yeonwooz/html-css)
+
+
 
 ### Available
 
