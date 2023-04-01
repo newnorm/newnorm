@@ -1,6 +1,6 @@
 ### Recently Working on
 
-- [백준 1일 1문](https://github.com/yeonwooz/BOJ)
+- [알고리즘](https://github.com/yeonwooz/BOJ)
 - [디자인 패턴, 네트워크, 운영체제, 데이터베이스, 자료구조 정리](https://github.com/yeonwooz/CS-study)
 - [디스커션 앱](https://github.com/yeonwooz/discussion-app)
 
